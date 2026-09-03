@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11111111-1111-4111-8111-111111111111",
+    "category": "Burgers",
+    "name": "Classic Beef Burger",
+    "description": "Grilled beef patty, cheddar, lettuce, tomato, house sauce",
+    "price": 250,
+    "available": true
+  },
+  {
+    "id": "22222222-2222-4222-8222-222222222222",
+    "category": "Burgers",
+    "name": "Spicy Chicken Burger",
+    "description": "Crispy fried chicken, jalapenos, spicy mayo",
+    "price": 220,
+    "available": true
+  },
+  {
+    "id": "33333333-3333-4333-8333-333333333333",
+    "category": "Sides",
+    "name": "French Fries",
+    "description": "Crispy golden fries, salted",
+    "price": 120,
+    "available": true
+  },
+  {
+    "id": "44444444-4444-4444-8444-444444444444",
+    "category": "Sides",
+    "name": "Onion Rings",
+    "description": "Beer-battered onion rings with dip",
+    "price": 140,
+    "available": false
+  },
+  {
+    "id": "55555555-5555-4555-8555-555555555555",
+    "category": "Drinks",
+    "name": "Coca-Cola",
+    "description": "330ml can, ice cold",
+    "price": 60,
+    "available": true
+  },
+  {
+    "id": "66666666-6666-4666-8666-666666666666",
+    "category": "Drinks",
+    "name": "Fresh Lemonade",
+    "description": "Homemade, served over ice",
+    "price": 90,
+    "available": true
+  }
+]
